@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - qyj_ah_zkj@192.168.1.250" uuid="e8fd654c-0ec2-41dc-97c7-590e64467c50">
+      <database-info product="MySQL" version="5.5.5-10.2.11-MariaDB-10.2.11+maria~jessie" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>qyj_ah_zkj:</introspection-scope>
+      <resolve-scope>qyj_ah_zkj:</resolve-scope>
+    </data-source>
+    <data-source name="MySQL - springdemo@localhost" uuid="1496c008-f63f-45ec-8d71-8f141a95c3b7">
+      <database-info product="MySQL" version="5.7.18" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.46 ( Revision: 9cc87a48e75c2d2e87c1a293b2862ce651cb256e )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>springdemo:</introspection-scope>
+      <resolve-scope>springdemo:</resolve-scope>
+    </data-source>
+  </component>
+</project>
